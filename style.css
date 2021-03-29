@@ -1,0 +1,3 @@
+h1, p { font-family: Lato; }
+a + a { margin: 0.5em; }
+.active { font-weight: bold }
